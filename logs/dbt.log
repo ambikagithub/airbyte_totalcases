@@ -1,0 +1,16 @@
+
+
+============================== 2023-05-09 06:09:59.485415 | acf7df4a-f285-48c8-b082-05e75b318f83 ==============================
+[0m06:09:59.485415 [info ] [MainThread]: Running with dbt=1.4.6
+[0m06:09:59.487386 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 120, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\AmbikaMohan\\totalcases\\normalisation_files\\normalize', 'send_anonymous_usage_stats': False, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m06:09:59.488388 [debug] [MainThread]: Tracking: do not track
+[0m06:09:59.503788 [info ] [MainThread]: Setting up your profile.
+[0m06:10:20.359361 [debug] [MainThread]: Flushing usage events
+
+
+============================== 2023-05-09 06:10:31.810703 | 80782cdf-d496-45cc-be5d-6eeebd214dd3 ==============================
+[0m06:10:31.810703 [info ] [MainThread]: Running with dbt=1.4.6
+[0m06:10:31.814366 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 120, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\AmbikaMohan\\totalcases\\normalisation_files\\normalize', 'send_anonymous_usage_stats': False, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m06:10:31.815379 [debug] [MainThread]: Tracking: do not track
+[0m06:10:31.829684 [info ] [MainThread]: Setting up your profile.
+[0m06:10:54.250395 [debug] [MainThread]: Flushing usage events
